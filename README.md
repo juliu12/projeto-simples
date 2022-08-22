@@ -1,3 +1,3 @@
-# README do meu projeto-simples
+# Repositório do Projeto em Shell Script
 
-Este projeto é apenas um shell script que conta itens unicos no diretorio /etc
+Este projeto é um shell script que conta itens únicos no diretorio /etc.
